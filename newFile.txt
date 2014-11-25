@@ -1,3 +1,5 @@
+newFile.txt test123 
+wendy was here!
 newFile.txt test123
 blah
 
